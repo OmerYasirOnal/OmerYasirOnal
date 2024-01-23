@@ -2,8 +2,9 @@
 <h3 align="center">A passionate Ios developer from Turkey</h3>
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[
+(https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=`engomeryasironal`)
+]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
