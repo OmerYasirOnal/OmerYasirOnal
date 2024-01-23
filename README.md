@@ -1,18 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-18678
-Fork on GitHub
-5569
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
 preview
 <h1 align="center">Hi 👋, I'm Yasir</h1>
 <h3 align="center">A passionate Ios developer from Turkey</h3>
@@ -35,6 +20,3 @@ preview
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omeryasironal&show_icons=true&locale=en&layout=compact" alt="omeryasironal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omeryasironal&" alt="omeryasironal" /></p>
-
-Developed in India 🇮🇳
-Buy Me A Coffee
