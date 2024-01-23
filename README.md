@@ -1,4 +1,3 @@
-preview
 <h1 align="center">Hi 👋, I'm Yasir</h1>
 <h3 align="center">A passionate Ios developer from Turkey</h3>
 
