@@ -61,5 +61,17 @@
 ---
 
 ### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [🤖 AI Destekli Yazılım Geliştirme Rehberi](https://medium.com/@engomeryasironal/ai-destekli-yazılım-geliştirme-rehberi-hızlı-ve-güvenli-adımlar-17f9a7ef597d)  
+  _Yapay zeka destekli yazılım geliştirme süreçleri ve güvenli uygulama adımları (Türkçe)_
+
+- [🍏 iOS Kendi Uygulamalarını Üretseydi](https://medium.com/@engomeryasironal/i̇os-kendi-uygulamalarını-üretseydi-mobil-sektörde-tek-olabilir-miydi-3b7b9a25469e)  
+  _Apple'ın uygulama pazarı stratejileri ve mobil ekosistem analizi (Türkçe)_
+
+- [📱 RxDart to Make Flutter Better](https://medium.com/@engomeryasironal/rxdart-to-make-flutter-better-71ca56f4c5bd)  
+  _Exploring reactive programming in Flutter using RxDart for better state management_
+
+- [🎨 Exploring Design Patterns in Flutter](https://medium.com/@engomeryasironal/exploring-design-patterns-benefits-importance-and-usage-in-flutter-abb57b5cfa1e)  
+  _Understanding architectural patterns and their implementation in Flutter applications_
+
+- [🍎 How to Install Flutter on Mac M1](https://medium.com/@engomeryasironal/how-to-install-flutter-on-mac-m1-59a085a86e7b)  
+  _Step-by-step guide for setting up Flutter development environment on Apple Silicon Macs_
