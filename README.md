@@ -1,7 +1,7 @@
 <h1 align="center">Ömer Yasir Önal</h1>
 
 <p align="center">
-  <strong>AI Agent Developer • Software Engineer</strong> <br/>
+  <strong>AI Agent Developer • Software Engineer</strong><br/>
   Istanbul, Türkiye
 </p>
 
@@ -17,23 +17,29 @@
 ---
 
 ## Summary
-I build **AI agent workflows** and **developer productivity systems** with a focus on **Clean Architecture**, maintainability, and shipping real projects.
+I build **AI agent workflows** and **production-ready software** with a focus on **clean architecture**, maintainability, and shipping.
 
-- **Focus:** AI Agents, clean software design, mobile & backend engineering  
-- **Delivery mindset:** clear requirements → iterative build → test & refine → ship  
+- **Focus:** AI Agents, developer productivity, mobile & backend engineering  
+- **Delivery:** requirements → iterative build → testing → ship  
 - **Based in:** Istanbul (Türkiye)
 
 ## Core Stack
-**Swift • Flutter/Dart • Java • Python • SQL • Git • Linux • Firebase**
+**Swift • Flutter/Dart • Java • Python • SQL • TypeScript • Astro • Tailwind • Git • Linux • Firebase**
 
 ---
 
 ## Selected Projects
-- **AKIS Platform (WIP)** — AI Agent Workflow Engine (planning, orchestration, productivity automation)
-- **Flutter:** [University-Grade-Calculator-App---Flutter](https://github.com/omeryasironal/University-Grade-Calculator-App---Flutter) — cross-platform grade/GPA calculator app
-- **Dart + AI:** [ArtFlare_OpenAI_API_Integration](https://github.com/omeryasironal/ArtFlare_OpenAI_API_Integration) — OpenAI API integration experiments
-- **iOS (Swift):** [Swift_BTK_Course](https://github.com/omeryasironal/Swift_BTK_Course) — Swift practice projects & mini apps
-- **Java:** [Grading-Multiple-Choice-Test](https://github.com/omeryasironal/Grading-Multiple-Choice-Test) — Java fundamentals & assessment logic
+- **AKIS Platform (WIP)** — AI Agent Workflow Engine (planning, orchestration, productivity automation)  
+  **Next:** a sanitized, safe **public open-source** release is planned soon.
+
+- **A2 Reklam Website (Freelance)** — SEO/AIO-first, static-first multilingual website built with **Astro + Tailwind**  
+  TR/EN/AR i18n, local SEO (Istanbul districts), optimized image pipeline, shared-hosting deployment ready.  
+  https://github.com/OmerYasirOnal/a2reklam-website
+
+- **Flutter:** [University-Grade-Calculator-App---Flutter](https://github.com/omeryasironal/University-Grade-Calculator-App---Flutter) — cross-platform grade/GPA calculator app  
+- **Dart + AI:** [ArtFlare_OpenAI_API_Integration](https://github.com/omeryasironal/ArtFlare_OpenAI_API_Integration) — OpenAI API integration experiments  
+- **iOS (Swift):** [Swift_BTK_Course](https://github.com/omeryasironal/Swift_BTK_Course) — Swift practice projects & mini apps  
+- **Java:** [Grading-Multiple-Choice-Test](https://github.com/omeryasironal/Grading-Multiple-Choice-Test) — assessment logic & fundamentals  
 - **C:** [University-Projects-in-c-language](https://github.com/omeryasironal/University-Projects-in-c-language) — university C projects
 
 ---
